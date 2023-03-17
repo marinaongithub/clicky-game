@@ -1,0 +1,9 @@
+.cards-gallery {
+    display: grid;
+    grid-template: auto / auto auto auto;
+    gap: 30px;
+    width: 100vw;
+    height: 100vh;
+    align-content: center;
+    justify-content: center;
+}

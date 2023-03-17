@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "altText": "man with a hat",
+        "imgUrl": "images/avatar1.png"
+    },
+    {
+        "id": "2",
+        "altText": "woman with a bow tie",
+        "imgUrl": "images/avatar2.png"
+    },
+    {
+        "id": "3",
+        "altText": "men with a striped shirt",
+        "imgUrl": "images/avatar3.png"
+    },
+    {
+        "id": "4",
+        "altText": "woman with glasses",
+        "imgUrl": "images/avatar4.png"
+    },
+    {
+        "id": "5",
+        "altText": "man with a beard",
+        "imgUrl": "images/avatar5.png"
+    },
+    {
+        "id": "6",
+        "altText": "women with red hair",
+        "imgUrl": "images/avatar6.png"
+    }
+
+]

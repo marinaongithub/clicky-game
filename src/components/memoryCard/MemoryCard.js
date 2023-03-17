@@ -1,8 +1,12 @@
 import React from 'react'
+import "./memoryCard.css"
 
-function memoryCard() {
+
+function memoryCard(props) {
   return (
-    <div>memoryCard</div>
+    <div className="memoryCard">
+        <img src={props.imgUrl} alt={props.altText}/>
+    </div>
   )
 }
 
