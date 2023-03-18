@@ -4,9 +4,9 @@ import "./memoryCard.css"
 
 function memoryCard(props) {
   return (
-    <div className="memoryCard">
+    <button className="memoryCard">
         <img src={props.imgUrl} alt={props.altText}/>
-    </div>
+    </button>
   )
 }
 
